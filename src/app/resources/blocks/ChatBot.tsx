@@ -54,7 +54,7 @@ const ChatBot = () => {
       const data = await response.json();
 
       const botMessage = {
-        sender: "Bot",
+        sender: "Wave",
         text:
           data.answer || "Sorry, I couldn't find information on that for you.",
       };
