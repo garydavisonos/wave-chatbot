@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Wave - Chatbot",
-  description: "Created by Soak Digital",
+  description: "",
 };
 
 export default function RootLayout({
