@@ -2,7 +2,7 @@
 
 A modern, interactive chatbot built with Next.js, TypeScript, and React. Wave is a friendly AI assistant that can answer questions using fuzzy search through a customisable FAQ database.
 
-![Wave Chatbot](./public/wave.png)
+![Wave Chatbot](./public/screenshot.png)
 
 ## Features
 
@@ -34,7 +34,7 @@ A modern, interactive chatbot built with Next.js, TypeScript, and React. Wave is
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:garydavisonos/wave-chatbot.git
    cd wave-chatbot
    ```
 
@@ -127,14 +127,6 @@ const fuse = new Fuse(data, {
 ### Content Filtering
 
 The bad-words filter can be customised by modifying the Filter instance in `ChatBot.tsx`.
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-- `npm run lint:fix` - Fix ESLint issues automatically
 
 ## Contributing
 
