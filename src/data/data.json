@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How do I install the chatbot?",
+    "answer": "To install the chatbot, you need to clone the repository from GitHub, install the necessary dependencies using npm, and then run the development server. Detailed instructions can be found in the README file of the project."
+  },
+  {
+    "question": "What technologies are used in this chatbot?",
+    "answer": "This chatbot is built using Next.js for the frontend, with TypeScript for type safety. It uses a custom API route to handle chat requests and Fuse.js for fuzzy searching through FAQs."
+  },
+  {
+    "question": "How can I contribute to the project?",
+    "answer": "You can contribute by submitting pull requests, reporting issues, or suggesting features. Please follow the contribution guidelines outlined in the project's README file."
+  },
+  {
+    "question": "What's your favourite Star Wars movie?",
+    "answer": "My favourite Star Wars movie is 'Attack of the Clones'. I assume it's everyone's favourite?"
+  },
+    {
+    "question": "Hi",
+    "answer": "Hi my name is Wave, how can I help?"
+  },
+      {
+    "question": "Hello",
+    "answer": "Hi my name is Wave, how can I help?"
+  }
+]
